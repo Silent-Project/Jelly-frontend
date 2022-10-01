@@ -1,5 +1,5 @@
 import React from "react";
-import ProductDetails from "./pages/productDetails/ProductDetails";
+// import ProductDetails from "./pages/productDetails/ProductDetails";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { path } from "./routes";
 import Home from "./pages/home/Home";
@@ -7,7 +7,7 @@ import LoginPage from "./pages/login/LoginPage";
 import Cart from "./pages/cart/Cart.jsx";
 import RegisterPage from "./pages/register/RegisterPage";
 import CheckOut from "./pages/checkout/CheckOut";
-import ContactPage from './pages/contact/ContactPage'
+// import ContactPage from './pages/contact/ContactPage'
 
 import Products from './pages/products/Products.jsx'
 import NavBar from "./components/navBar/NavBar";
